@@ -1,0 +1,3 @@
+ul { position: fixed; left: 10px; top: 0px; list-style: none; padding-left: 0; }
+ul li a { color: black; font-size: 13px; text-decoration: none; font-family: serif;  }
+.hideme { margin-top: 15px; }
